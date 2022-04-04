@@ -20,3 +20,5 @@ require(5656268927).chathax("YourName") you will have to change it to the server
 > **(Adding)**
 - Open the prewiew of ModuleScript you have edited before after you will see a ScreenGui with the name of "Serverside" Open it and after you do so there will be a Frame with the name of "Serverside" Open it and then you will find a Frame with the name of "ScriptHub" Open it. After these steps you will find three TextButtons with the name of "Script" clone it and then a new TextButton will appear n the list open it after you do so there is a script inside it. Open it and you will need to edit the code this way: **Edit the require to the script you want example: require(5656268927).chathax("YourName") you will have to change it to the serverside script you want.**  
 
+
+### If there is any errors please feel free to open a Issue. Thanks for using! <3
