@@ -1,6 +1,6 @@
-# How to make a Serverside.
+# How to make: Serverside.
 
-> ***WARNING: If you don't know how to make it follow the Eplainatations on down.***
+> ***WARNING: If you don't know how to make it follow the Explainatations on down.***
 
 ## Explainatations
 
