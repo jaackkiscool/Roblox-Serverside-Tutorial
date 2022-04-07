@@ -1,8 +1,8 @@
 # Roblox Serverside Tutorial
 
-> ***WARNING: If you don't know how to make it follow the Explainatations on down.***
+> ***WARNING: If you don't know how to make it follow the Explanations down.***
 
-## Explainatations
+## Explanations
 
 
 
